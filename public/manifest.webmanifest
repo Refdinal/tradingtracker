@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Stack — BTC Trading Journal",
+  "short_name": "Stack Journal",
+  "description": "Jurnal trading BTC pribadi dan kalkulator risk dalam rupiah.",
+  "lang": "id-ID",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080b10",
+  "theme_color": "#080b10",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
